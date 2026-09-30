@@ -1,5 +1,5 @@
 {% set name = "pytrunc" %}
-{% set version = "2.0.0" %}
+{% set version = "2.1.0" %}
 {% set python_min = "3.11" %}
 
 package:
@@ -7,8 +7,8 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/p/pytrunc/pytrunc-{{ version }}.tar.gz
-  sha256: 5cd210c94fa5152bd6b98ef446b6171ade2391e071c2c9fdbc01fc7bc5ecd866
+  url: https://files.pythonhosted.org/packages/source/p/pytrunc/pytrunc-{{ version }}.tar.gz
+  sha256: 64a95c7d9d5691f65d1d9becdac75f5c77357a2dd0655d2703f7f8e31ffea945
 
 build:
   noarch: python
