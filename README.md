@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pytrunc-feedsto
 
 Home: https://github.com/hygeos/pytrunc
 
-Package license: [Apache-2.0](https://github.com/hygeos/pytrunc/blob/main/LICENSE.TXT)
+Package license: [Apache-2.0](https://github.com/hygeos/pytrunc/blob/main/LICENSE.txt)
 
 Summary: Scattering phase matrix truncation Python tool for radiative transfer applications.
 
